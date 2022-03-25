@@ -7,6 +7,9 @@
   2.การบริจาคเลือดเพื่อแลกเเต้มสิทธิพิเศษต่างๆ
   3.เก็บบันทึกข้อมูลประวัติการบริเลือดแต่ล่ะครั้ง
   4.ตรวจสอบหรือสอบถามการบริจาคเลือด
-## Use Case Diagram
+## Use![Use Case Diagram]
+(https://user-images.githubusercontent.com/86650010/160188403-c086672f-805d-4a33-a91f-bcd564367b57.png)
+ Case Diagram
+
 ## User Interface Design
 ## Clip demo การใช้ Mobile Application ที่พัฒนาขึ้น
